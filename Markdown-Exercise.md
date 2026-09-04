@@ -55,14 +55,47 @@ There are 6 different header sizes corresponding to the number of "#" you includ
 
 ##### Images As Links:
 
-[![Cool Math Games Logo](CoolMathGames.png)](https://www.coolmathgames.com/)
+[![Cool Math Games Logo](CoolMathGames.jpeg)](https://www.coolmathgames.com/)
+
+### Blockquotes
+
+> "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."
+> - Colossians 3:23
+
+### Code Blocks:
+
+##### Inline Code: 
+Using single backticks I am able to create inline code. 
+
+Example: Here I am using `inline code` in a line.
+
+##### Code Block:
+Using triple backticks I am able to create a code block.
+
+Example: 
+
+```
+All of this text here is part of a code block.
+In order to close this code block I must end it with another 3 backticks
+
+```
+### Tables
+|P/C | Chess | Gaming | 
+|----------|----------|----------|
+| Pros | Cognitive boost | Reaction time improvement |
+| Cons| hard to master | bad on the eyes |
+
+### Task List:
+- [x] Wash dishes
+- [x] wash clothes
+- [ ] Complete Hw
+- [x] Pick up Sibling 
 
 
+### Footnotes
 
-
-
-
-
+Here is a footnote about chess and my experience. [^1]
+[^1]: Chess is a game I started playing in high school during my Sophomore year. What I enjoyed most about it is how simple the piece movements are, but yet how challenging it can be with so many versions of a single game. I used to be in the chess team in high school and even participated in a school tournament. Soon after that, I stopped play chess for a while but I recently picked up the hobby again and I am enjoying re-learning/learning new things about the game. Ive tried replacing gaming with chess, as I wanted something that didn't involve using screens. 
 
 
 
