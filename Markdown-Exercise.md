@@ -48,11 +48,14 @@ There are 6 different header sizes corresponding to the number of "#" you includ
 
 ##### Links With Titles: [Cool Math Games (hover me)](https://www.coolmathgames.com/ "Visit Cool Math Games")
 
-##### Reference-Style Links: [Cool Math Games] [CMG link] is a fun website!
+##### Reference-Style Links: 
+[Cool Math Games][CMG link] is a fun website!
 
 [CMG link]: https://www.coolmathgames.com/
 
+##### Images As Links:
 
+[![Cool Math Games Logo](CoolMathGames.png)](https://www.coolmathgames.com/)
 
 
 
